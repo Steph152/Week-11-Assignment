@@ -1,0 +1,15 @@
+{
+  "name": "week-11-jquery_and_ajax",
+  "version": "1.0.0",
+  "description": "",
+  "main": "Week11Assignment.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "bootstrap": "^4.4.1",
+    "jquery": "^3.6.1"
+  }
+}
